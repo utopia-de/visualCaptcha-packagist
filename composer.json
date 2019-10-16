@@ -24,6 +24,6 @@
         "phpunit/phpunit": "*"
     },
     "autoload": {
-        "psr-0": { "visualCaptcha": "src/" }
+        "psr-0": { "VisualCaptcha": "src/" }
     }
 }

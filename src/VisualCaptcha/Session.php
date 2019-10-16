@@ -1,6 +1,6 @@
 <?php
 
-namespace visualCaptcha;
+namespace VisualCaptcha;
 
 class Session {
     private $namespace = '';
