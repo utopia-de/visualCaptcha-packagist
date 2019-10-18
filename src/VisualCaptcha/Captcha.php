@@ -110,7 +110,7 @@ class Captcha {
 
 			$image['value'] = $randomValue;
 		}
-		unset($image);
+		unset( $image );
 
 		$this->session->set( 'images', $images );
 

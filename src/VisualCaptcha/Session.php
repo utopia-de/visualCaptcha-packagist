@@ -3,7 +3,7 @@
 namespace VisualCaptcha;
 
 class Session {
-    private $namespace = '';
+    private $namespace;
 
     public function __construct( $namespace = 'visualcaptcha' ) {
         $this->namespace = $namespace;
@@ -32,6 +32,4 @@ class Session {
 
         $_SESSION[ $this->namespace ][ $key ] = $value;
     }
-};
-
-?>
+}
