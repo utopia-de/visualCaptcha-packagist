@@ -9,7 +9,7 @@ class Captcha {
 	// Object that will have a reference for the session object
 	// It will have .visualCaptcha.images, .visualCaptcha.audios, .visualCaptcha.validImageOption, and .visualCaptcha.validAudioOption
 	/** @var Session */
-	private $session = null;
+	private $session;
 
 	// Assets path.
 	// By default, it will be ./assets
@@ -104,12 +104,13 @@ class Captcha {
 		$images = $this->utilArraySample( $this->imageOptions, $numberOfOptions );
 
 		// Set a random value for each of the images, to be used in the frontend
-		foreach ( $images as $img_key => $image ) {
+		foreach ( $images as &$image ) {
 			$randomValue = $this->utilRandomHex( 10 );
 			$imageValues[] = $randomValue;
 
-			$images[ $img_key ]['value'] = $randomValue;
+			$image['value'] = $randomValue;
 		}
+		unset( $image );
 
 		$this->session->set( 'images', $images );
 
