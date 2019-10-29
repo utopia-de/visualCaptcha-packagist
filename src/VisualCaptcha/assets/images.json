@@ -1,150 +1,150 @@
 [
     {
-        "name": "das Flugzeug",
+        "name": "das FLUGZEUG",
         "path": "airplane.png"
     },
     {
-        "name": "die Ballone",
+        "name": "die BALLONE",
         "path": "balloons.png"
     },
     {
-        "name": "die Kamera",
+        "name": "die KAMERA",
         "path": "camera.png"
     },
     {
-        "name": "das Auto",
+        "name": "das AUTO",
         "path": "car.png"
     },
     {
-        "name": "die Katze",
+        "name": "die KATZE",
         "path": "cat.png"
     },
     {
-        "name": "den Stuhl",
+        "name": "den STUHL",
         "path": "chair.png"
     },
     {
-        "name": "die Büroklammer",
+        "name": "die BÜROKLAMMER",
         "path": "clip.png"
     },
     {
-        "name": "die Uhr",
+        "name": "die UHR",
         "path": "clock.png"
     },
     {
-        "name": "die Wolke",
+        "name": "die WOLKE",
         "path": "cloud.png"
     },
     {
-        "name": "den Computer",
+        "name": "den COMPUTER",
         "path": "computer.png"
     },
     {
-        "name": "den Briefumschlag",
+        "name": "den BRIEFUMSCHLAG",
         "path": "envelope.png"
     },
     {
-        "name": "das Auge",
+        "name": "das AUGE",
         "path": "eye.png"
     },
     {
-        "name": "die Flagge",
+        "name": "die FLAGGE",
         "path": "flag.png"
     },
     {
-        "name": "den Ordner",
+        "name": "den ORDNER",
         "path": "folder.png"
     },
     {
-        "name": "den Fuß",
+        "name": "den FUß",
         "path": "foot.png"
     },
     {
-        "name": "den Graphen",
+        "name": "den GRAPHEN",
         "path": "graph.png"
     },
     {
-        "name": "das Haus",
+        "name": "das HAUS",
         "path": "house.png"
     },
     {
-        "name": "den Schlüssel",
+        "name": "den SCHLÜSSEL",
         "path": "key.png"
     },
     {
-        "name": "das Blatt",
+        "name": "das BLATT",
         "path": "leaf.png"
     },
     {
-        "name": "die Glühbirne",
+        "name": "die GLÜHBIRNE",
         "path": "light-bulb.png"
     },
     {
-        "name": "das Schloß",
+        "name": "das SCHLOß",
         "path": "lock.png"
     },
     {
-        "name": "die Lupe",
+        "name": "die LUPE",
         "path": "magnifying-glass.png"
     },
     {
-        "name": "den Mann",
+        "name": "den MANN",
         "path": "man.png"
     },
     {
-        "name": "die Musik Note",
+        "name": "die MUSIK NOTE",
         "path": "music-note.png"
     },
     {
-        "name": "die Hose",
+        "name": "die HOSE",
         "path": "pants.png"
     },
     {
-        "name": "den Stift",
+        "name": "den STIFT",
         "path": "pencil.png"
     },
     {
-        "name": "den Drucker",
+        "name": "den DRUCKER",
         "path": "printer.png"
     },
     {
-        "name": "den Roboter",
+        "name": "den ROBOTER",
         "path": "robot.png"
     },
     {
-        "name": "die Schere",
+        "name": "die SCHERE",
         "path": "scissors.png"
     },
     {
-        "name": "die Sonnenbrille",
+        "name": "die SONNENBRILLE",
         "path": "sunglasses.png"
     },
     {
-        "name": "das Preisschild",
+        "name": "das PREISSCHILD",
         "path": "tag.png"
     },
     {
-        "name": "den Baum",
+        "name": "den BAUM",
         "path": "tree.png"
     },
     {
-        "name": "den Lastwagen",
+        "name": "den LASTWAGEN",
         "path": "truck.png"
     },
     {
-        "name": "das T-Shirt",
+        "name": "das T-SHIRT",
         "path": "t-shirt.png"
     },
     {
-        "name": "den Regenschirm",
+        "name": "den REGENSCHIRM",
         "path": "umbrella.png"
     },
     {
-        "name": "die Frau",
+        "name": "die FRAU",
         "path": "woman.png"
     },
     {
-        "name": "die Erde",
+        "name": "die ERDE",
         "path": "world.png"
     }
 ]
